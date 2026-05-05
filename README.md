@@ -10,8 +10,8 @@ Current work includes production infrastructure, deployment automation, and inte
 
 ## Public Work
 
-- [Expensify/App PR #80440](https://github.com/Expensify/App/pull/80440) - Merged contribution migrating icon UI controls and actions to lazy loading across 112 files.
-- [expnt/containers contributions](https://github.com/expnt/containers/pulls?q=is%3Apr+author%3Atedward-23) - 10 authored merged PRs and 29 attributed commits across Earthly builds, multi-platform publishing, smart build detection, Python IaC images, Bitnami mirrors, CI fixes, and TimescaleDB tooling.
+- [expnt/containers](https://github.com/expnt/containers) - Contributed container infrastructure work across Earthly builds, multi-platform publishing, smart build detection, Python IaC images, Bitnami mirrors, CI reliability, and TimescaleDB tooling.
+- [Expensify/App](https://github.com/Expensify/App) - Contributed frontend performance work by migrating icon UI controls and actions toward lazy loading.
 - [terraform-rke2-monitoring-logging](https://github.com/tedward-23/terraform-rke2-monitoring-logging) - RKE2 Kubernetes observability platform built with Terraform.
 - [CI-CD-Project](https://github.com/tedward-23/CI-CD-Project) - Jenkins, Docker, SonarQube, Trivy, Prometheus, and Grafana CI/CD workflow.
 
