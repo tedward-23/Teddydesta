@@ -6,7 +6,7 @@ This repo is a lightweight personal profile page. The main GitHub profile README
 
 Senior DevOps and Cloud Infrastructure Engineer working across Kubernetes, Terraform, CI/CD, observability, and cloud-native platform systems on AWS, Azure, and GCP.
 
-Current work includes production infrastructure, deployment automation, and internal platform tooling such as Laminar CLI for AWS workload delivery.
+Current work includes production infrastructure, deployment automation, and internal platform tooling for reliable cloud workload delivery.
 
 ## Open Source And Public Work
 
