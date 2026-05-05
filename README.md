@@ -4,9 +4,9 @@ This repo is a lightweight personal profile page. The main GitHub profile README
 
 ## About
 
-Senior DevOps and Cloud Infrastructure Engineer working across Kubernetes, Terraform, CI/CD, observability, and cloud-native platform systems on AWS, Azure, and GCP.
+Senior DevOps and Cloud Infrastructure Engineer working across Kubernetes, Terraform, CI/CD, observability, AI infrastructure, and cloud-native platform systems on AWS, Azure, and GCP.
 
-Current work includes production infrastructure, deployment automation, and internal platform tooling for reliable cloud workload delivery.
+Current work includes production infrastructure, deployment automation, and internal platform tooling for reliable cloud workload delivery, with growing focus on AI infrastructure and MLOps foundations.
 
 ## Public Work
 
